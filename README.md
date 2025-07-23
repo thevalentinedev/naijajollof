@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # naijajollof
 =======
 # Naija Jollof Food E-commerce Website
@@ -49,4 +48,4 @@ See the `snippets/` folder for examples of:
 ---
 
 > This repository is for portfolio/display purposes only. Full source code is not included for security and copyright reasons. 
->>>>>>> ce1341a (Initial portfolio display commit)
+
