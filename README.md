@@ -1,5 +1,3 @@
-# naijajollof
-=======
 # Naija Jollof Food E-commerce Website
 
 A modern, mobile-friendly food e-commerce platform for authentic Nigerian cuisine, serving the Waterloo area. This project showcases a custom online ordering experience, menu browsing, and user account management.
